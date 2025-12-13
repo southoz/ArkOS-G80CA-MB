@@ -4,7 +4,7 @@ For God's sake, I brought another cheap Chinese game console!
 
 It turned up, and as most know, buying a R36S from Aliexpress is like playing Russian Roulette.
 
-Thanks to the great resources over at (https://handhelds.wiki/R36S_Clones), I was able to identify that it was a G80CA-MB V1.2-20250422.
+Thanks to the great resources over at https://handhelds.wiki/R36S_Clones, I was able to identify that it was a G80CA-MB V1.2-20250422.
 
 Obviously, the included firmware is less than optimal, so I went on the hunt.
 
