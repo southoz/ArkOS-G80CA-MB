@@ -16,8 +16,5 @@ Spent a minute trying to figure it out, then it all came flooding back like a ba
 
 Image is the archived [ArkOS-K36](https://github.com/AeolusUX/ArkOS-K36) with an updated DTB and some controller tweaks to make it work with the G80CA-MB
 
-Spent a bit of time on external Wireless Adapters, and sad to say, the OTG port does not provide enough power even for low-end wireless N adapters.
+Spent a bit of time on external Wireless Adapters, and the OTG port doesn't provide enough power even for low-end wireless N adapters. The RL8188EU drivers are installed in the image so that dongle may work.
 
-[  498.855485] r8152 1-1:1.0 eth0: Stop submitting intr, status -104
-[  498.855531] r8152 1-1:1.0 eth0: Rx status -104
-[  498.855576] dwc2 ff300000.usb: Not connected
