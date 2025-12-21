@@ -14,7 +14,8 @@ Downloaded [ArkOS for K36](https://github.com/AeolusUX/ArkOS-K36) and updated th
 
 Spent a minute trying to figure it out, then it all came flooding back like a bad case of PTSD.
 
-Image is the archived [ArkOS-K36](https://github.com/AeolusUX/ArkOS-K36) with an updated DTB and some controller tweaks to make it work with the G80CA-MB
+Tried a number of external Wireless Adapters, and the OTG port doesn't provide enough power even for low-end wireless N adapters. The RL8188EU drivers are installed in the image so that dongle may work.
 
-Spent a bit of time on external Wireless Adapters, and the OTG port doesn't provide enough power even for low-end wireless N adapters. The RL8188EU drivers are installed in the image so that dongle may work.
+Decompiled multiple DTB files attempting to find one with the function button, which is supposed to map to zed_keyboard SDL object rather than play_joystick. Updated the node with all differnt combinations of the gpio pins but was not able to get it to respond in evtest.
 
+Panel 9 DTB Files are located [here](https://github.com/southoz/ArkOS-G80CA-MB/tree/main/DTB/Panel%209), however, I have no idea if they will work on a G80CA-MB V1.2 with Panel 9
