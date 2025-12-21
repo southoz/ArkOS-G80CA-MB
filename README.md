@@ -10,7 +10,7 @@ Obviously, the included firmware is less than optimal, so I went on the hunt.
 
 Tried [ArkOS4Clone](https://github.com/lcdyk0517/arkos4clone) but the controller mapping needed a lot of work, and the Dreamcast performance was a bit hit and miss.
 
-Downloaded [ArkOS for K36](https://github.com/AeolusUX/ArkOS-K36) and updated the DTB to Panel 8, which worked the controls; however, they were all over the place.
+Downloaded [ArkOS for K36](https://github.com/AeolusUX/ArkOS-K36) and updated the DTB to Panel 8, which worked. The controls, however, were all over the place as this clone of a clone of a clone has been put together with gaffer tape using random parts.
 
 Spent a minute trying to figure it out, then it all came flooding back like a bad case of PTSD.
 
