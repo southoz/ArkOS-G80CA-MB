@@ -14,8 +14,6 @@ Downloaded [ArkOS for K36](https://github.com/AeolusUX/ArkOS-K36) and updated th
 
 Spent a minute trying to figure it out, then it all came flooding back like a bad case of PTSD.
 
-Tried a number of external Wireless Adapters, and the OTG port doesn't provide enough power even for low-end wireless N adapters. The RL8188EU drivers are installed in the image so that dongle may work.
+Tried several external Wireless Adapters, and the OTG port doesn't provide enough power even for low-end wireless N adapters. The RL8188EU drivers are installed in the image so that dongle may work.
 
-Decompiled multiple DTB files, attempting to find one with the function button, which is supposed to map to zed_keyboard SDL object rather than play_joystick. Updated the node with all different combinations of the GPIO pins, but was not able to get it to respond in evtest.
-
-Panel 9 DTB Files are located [here](https://github.com/southoz/ArkOS-G80CA-MB/tree/main/DTB/Panel%209), however, I have no idea if they will work on a G80CA-MB V1.2 with Panel 9
+Thanks to chaoso85 over at retrohandhelds discord for the panel 9 DTB with the fixed-function button, we were able to integrate the panel 8 config into the panel 9 DTB. I have also updated his panel 9 DTB to enable 1512MHz and included both in the [DTB Folder](https://github.com/southoz/ArkOS-G80CA-MB/tree/main/DTB). I did test the Panel 9 DTB on my Panel 8, and all the keys are mapping to the same buttons so it should just work.
