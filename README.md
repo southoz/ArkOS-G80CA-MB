@@ -8,6 +8,8 @@ It turned up, and as most know, buying a R36S from [Aliexpress](https://www.alie
 
 Thanks to the great resources over at [Handheld Wiki](https://handhelds.wiki/R36S_Clones), I was able to identify that it was a G80CA-MB V1.2-20250422.
 
+![](resources/Internals.jpg)
+
 Obviously, the included firmware is less than optimal, so I went on the hunt.
 
 Tried [ArkOS4Clone](https://github.com/lcdyk0517/arkos4clone) but the controller mapping needed a lot of work, and the Dreamcast performance was a bit hit and miss.
