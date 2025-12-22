@@ -18,6 +18,6 @@ Spent a minute trying to figure it out, then it all came flooding back like a ba
 
 Thanks to chaoso85 over at retrohandhelds discord for the panel 9 DTB with the fixed-function button, we were able to integrate the panel 8 config into the panel 9 DTB. I have also updated his panel 9 DTB to enable 1512MHz and included both in the [DTB Folder](https://github.com/southoz/ArkOS-G80CA-MB/tree/main/DTB). I did test the Panel 9 DTB on my Panel 8, and all the keys are mapping to the same buttons, so it should just drop in with a rename, allowing Panel 9 devices to use the firmware without key remapping.
 
-## Wirelss
+## Wireless
 
-Tried several external Wireless Adapters, and the OTG port doesn't provide enough power even for low-end wireless N adapters. The RL8188EU drivers are installed in the image so that dongle may work.
+Tried several external Wireless Adapters, and the OTG port doesn't provide enough power even for low-end wireless N adapters. The RL8188EU drivers are installed in the image; if anyone can test.
