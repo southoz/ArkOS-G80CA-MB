@@ -2,6 +2,7 @@
 
 ![](resources/Logo.bmp)
 
+
 For God's sake, I brought another cheap Chinese game console!
 
 It turned up, and as most know, buying a R36S from [Aliexpress](https://www.aliexpress.com/item/1005010419704093.html?spm=a2g0o.order_list.order_list_main.11.1d071802Kznq7y) is like playing Russian Roulette.
@@ -9,6 +10,10 @@ It turned up, and as most know, buying a R36S from [Aliexpress](https://www.alie
 Thanks to the great resources over at [Handheld Wiki](https://handhelds.wiki/R36S_Clones), I was able to identify that it was a G80CA-MB V1.2-20250422.
 
 ![](resources/Internals.jpg)
+
+## Wiki
+
+For firmware information, installation instructions, and game controls, check the [Wiki](https://github.com/southoz/ArkOS-G80CA-MB/wiki)
 
 ## Panel Version
 
