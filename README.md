@@ -1,5 +1,7 @@
 # ArkOS-G80CA-MB
 
+If you want Wireless and Better Performance try [dArkOS-G80CA](https://github.com/southoz/dArkOS-G80CA).
+
 ![](resources/Logo.bmp)
 
 
