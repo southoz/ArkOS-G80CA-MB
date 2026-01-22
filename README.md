@@ -2,11 +2,9 @@
 
 **ArkOS has been retired.** dArkOS is the future of ArkOS, and it's available now. 
 
-<p align="center">
-<a href="[URL](https://github.com/southoz/dArkOS-G80CA-RE)">
+<a href="https://github.com/southoz/dArkOS-G80CA-RE">
 <img width="204" height="320" alt="image" src="https://github.com/user-attachments/assets/d0334598-9296-466f-8e6e-4ca2e15daf70" />
 </a>
-</p>
 
 Try [dArkOS-G80CA-RE](https://github.com/southoz/dArkOS-G80CA-RE) for the G80CA V1.2 Panel 8 and Panel 9.
 
